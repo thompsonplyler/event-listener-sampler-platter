@@ -1,0 +1,42 @@
+.center {
+  display: grid;
+  place-content: center;
+}
+.highest {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: orange;
+}
+
+.higher {
+  height: 400px;
+  width: 400px;
+  background-color: rgb(253, 210, 97);
+  box-shadow: 2px 2px 2px;
+}
+
+.high {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(250, 200, 83);
+  box-shadow: 2px 2px 2px;
+}
+
+.thing {
+  height: 200px;
+  width: 200px;
+  background-color: rgb(252, 191, 78);
+  box-shadow: 2px 2px 2px;
+}
+
+.blue {
+  background-color: blue;
+}
+
+button {
+  border: 0px;
+  border-radius: 15px;
+  box-shadow: 2px 2px 2px;
+}

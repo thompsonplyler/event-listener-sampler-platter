@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  border: 0;
+  box-shadow: 2px 2px 2px black;
+  border-radius: 15px;
+  height: 50px;
+  padding: 10px;
+  background-color: #5493c2;
+  color: white;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
